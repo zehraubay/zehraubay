@@ -1,4 +1,4 @@
-[![MasterHead](http:https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+
 <h1 align="center">Hi 👋, I'm Zehra</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
