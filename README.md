@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Machine Learning,Data Science**
  
- 🌱 I’m currently learning **C#,Phyton,MYSQL,MSSQL,R,HTML,CSS,JAVASCRIPT**
+ 🌱 I’m currently learning **Phyton,MSSQL,C++,R,JAVA**
  
  </div>
  
