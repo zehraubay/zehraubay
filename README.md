@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Machine Learning,Data Science**
+ 🔭 I’m currently working on **Machine Learning and Artificial Intelligence**
  
- 🌱 I’m currently learning **Phyton,MSSQL,C++,R,JAVA**
+ 🌱 I’m currently learning **Phyton,MSSQL,C++**
  
  </div>
  
